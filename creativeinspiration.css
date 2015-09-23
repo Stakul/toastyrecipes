@@ -1,0 +1,196 @@
+/* A Free Design by Bryant Smith (bryantsmith.com) */
+
+html, body {
+text-align: center;
+}
+p 
+{
+text-align: left;
+color:#0f7552;
+}
+
+body {
+	margin: 0;
+	padding: 0;
+	background: #697281;
+	font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
+	font-size: 13px;
+	color: #F1F5F8;
+	background-color:#697281;
+}
+*
+{
+  margin: 0 auto 0 auto;
+ text-align:left;}
+
+form {
+  text-align: center;   
+}
+
+#page
+{
+  margin: 0 auto 0 auto; 
+  display: block; 
+  height:auto;
+  position: relative; 
+  overflow: hidden; 
+  background: #697281 url(images/background.png) repeat-y;
+  width: 750px;
+}
+
+#header
+{
+background-image:url(images/header.png);
+background-repeat:no-repeat;
+height:156px;
+width:750px;
+}
+
+#headerTitle
+{
+position:relative;
+top:55px;
+color:#0f7552;
+text-align:center;
+font-size:50px;
+font-family:Impact,Arial, Helvetica, sans-serif;
+}
+
+#headerSubText
+{
+position:relative;
+left:30px;
+top:50px;
+color:#0f7552;
+text-align:center;
+font-size:16px;
+font-weight:bold;
+font-family:Arial, Helvetica, sans-serif;
+}
+
+
+#bar
+{
+background-image:url(images/bar.png);
+background-repeat:no-repeat;
+height:53px;
+width:750px;
+padding-bottom:15px;
+
+}
+
+
+
+#bar .navLink a
+{
+position:relative;
+top:16px;
+margin-left:35px;
+color:#FFFFFF;
+text-align:center;
+font-size:15px;
+float:left;
+
+}
+
+#bar .navLink a:hover
+{
+color:#E4EBFA;
+}
+
+.tdstyle
+{
+width:100px;
+height:100px;
+valign="top"
+}
+
+.listyle
+{
+font-size: 30px;
+color:#1fda9a;
+}
+
+.listyle2
+{
+font-size: 15px;
+color:#0f7552;
+}
+
+.author
+{
+font-size: 25px;
+color:#0f7552;
+}
+
+.entry
+{
+font-size:15px;
+color:#1fda9a;
+}
+
+img.displayed 
+{
+    display: block;
+    margin-left: auto;
+    margin-right: auto
+}
+
+.contentTitle
+{
+width:700px;
+height:44px;
+margin-top:20px;
+margin-left:25px;
+margin-right:25px;
+background-image:url(images/tab_back.png);
+background-repeat:no-repeat;
+
+}
+
+.contentTitle h1
+{
+margin-left:21px;
+padding-top:8px;
+font-size:17px;
+font-weight:bold;
+color:#0f7552;
+}
+
+
+.contentText
+{
+width:680px;
+padding-left:30px;
+padding-right:30px;
+font-size:13px;
+color:#030712;
+line-height:30px;
+}
+
+a
+{
+text-decoration:none;
+color:#0f7552;
+}
+
+a:hover
+{
+color:#1fda9a;
+}
+
+
+#footer {
+width: 750px;
+height:49px;
+background: url(images/footer.png) no-repeat;
+text-align:center;
+font-size:9px;
+color:#223F8D;
+padding-top:36px;
+}
+
+html, body {
+text-align: center;
+}
+p {text-align: left;}
